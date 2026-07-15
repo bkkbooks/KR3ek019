@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ek019/v1
 canonical_location: https://kanripo.org/bkk/KR3ek019/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 青囊秘訣
   identifiers:
@@ -16,13 +16,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ek019_000.yaml, hash: 'sha256:84ed5c9e24a0518bea0fc8f906acc7a494d50690dc60344ff0f5fbff712fb10c'}
-  - {seq: 1, filename: KR3ek019_001.yaml, hash: 'sha256:0a093ac7975b36721890674e409572b4508826cf49c92e3327e7550a2abe37b3'}
-  - {seq: 3, filename: KR3ek019_003.yaml, hash: 'sha256:d31ddba053363577dd6ac356f73aa3ab9ad62f752d02a1f0082e44f15b4ce016'}
+  - {seq: 0, filename: KR3ek019_000.yaml, hash: 'sha256:0dd4b0ba8aef403592bc2073fcc7284761ad1bdcf5315646430cf8629e6ca623'}
+  - {seq: 1, filename: KR3ek019_001.yaml, hash: 'sha256:55f00ea5e10b884c61e96326089882110f7338c074225f2c38989ed96b9f1ab7'}
+  - {seq: 3, filename: KR3ek019_003.yaml, hash: 'sha256:d55ddc7114ce5869a883bea7add8635a11a7470b2f7f692e9d15bc669b1c0986'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek019_000.markers.yaml, hash: 'sha256:6f05ff316c1fe8f88a7d351c5b9f0df9b6fba4258f1067f257e93c3d3458c549'}
-  - {seq: 1, role: markers, filename: assets/KR3ek019_001.markers.yaml, hash: 'sha256:600f18e3ab60e45d92e6d0cc9c48d6f6289078b79a5cb7557dc47e51cf6a1fe2'}
-  - {seq: 3, role: markers, filename: assets/KR3ek019_003.markers.yaml, hash: 'sha256:ee3eeb69672011d19f77433ffcc7bc8927c7319a5cfdcec001b4bff2ab0a7ee1'}
+  - {seq: 0, role: markers, filename: assets/KR3ek019_000.markers.yaml, hash: 'sha256:ab8079d06ed1b1bb2e6a0c77807d1c2d35f7e274eefec7e8045af0fd35a28533'}
+  - {seq: 1, role: markers, filename: assets/KR3ek019_001.markers.yaml, hash: 'sha256:eb16454d3b0da1bb75606ca28f948f7370b30cb3123b593b7dd4fc7b94ea31f6'}
+  - {seq: 3, role: markers, filename: assets/KR3ek019_003.markers.yaml, hash: 'sha256:818c754cdf98eb09dfc27758346ddb555fc25acd86bcfb78bf643f44fed79534'}
 table_of_contents:
 - ref:
     seq: 0
@@ -264,4 +264,7 @@ table_of_contents:
   label: 小腸癰論
   type: section
   level: 2
-hash: sha256:40caa7332d94a417377972e45c7754fb49201e1c1d0a156e57a2e0ca3c0f0ded
+hash: sha256:633bac298e81e29d124b2481a41de089d856cd299cf115b3ad092357a83e84bd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
